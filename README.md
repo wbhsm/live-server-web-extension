@@ -51,3 +51,4 @@ Neither the browser add-on nor the VS Code extension will host a server for: `PH
 
 ### License
 This extension is licensed under the [MIT License](./LICENSE)
+#1
